@@ -1,3 +1,4 @@
+![profile](https://github.com/Arko9699/Arko9699/blob/main/githubprof.png?raw=true)
 - 👋 Hi, I’m @Arko9699
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning Python/C
